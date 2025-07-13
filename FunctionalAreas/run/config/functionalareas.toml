@@ -1,0 +1,4 @@
+selectorItem = "minecraft:breeze_rod"
+selectorName = "§dArea Selector"
+showParticles = true
+particleTypeId = "minecraft:end_rod"

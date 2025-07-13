@@ -1,0 +1,36 @@
+/faset
+/faset test test
+/faset
+/facancel
+/reload
+/faset
+/facancel
+/faview
+/faset
+/faset test1 give @p apple 1
+/restart
+/faset
+/facancel
+/faview
+/faset
+/faset test test
+/faset
+/faview
+/fadelete test
+/facancel
+/faset
+/facancel
+/faset
+/facancel
+/faset
+/facancel
+/faset
+/facancel
+/fahepl
+/fahelp
+/faset
+/facancel
+/fahelp
+/faset
+/facancel
+/faset

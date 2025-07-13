@@ -1,0 +1,4 @@
+selectorItem = "minecraft:stick"
+selectorName = "§dArea Selector"
+showParticles = false
+particleTypeId = "minecraft:end_rod"

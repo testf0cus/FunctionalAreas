@@ -1,0 +1,35 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-03 03:15:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-05-03 03:40:47 +0200",
+      "minecraft:snowy_taiga": "2025-05-03 03:15:33 +0200",
+      "minecraft:snowy_beach": "2025-05-03 03:15:29 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-03 03:15:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-03 03:15:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-03 03:39:54 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

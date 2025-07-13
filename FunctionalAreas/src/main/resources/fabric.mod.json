@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "functionalareas",
+  "version": "2.0.0",
+  "name": "Functional Areas",
+  "description": "Create command-triggered areas with teleport and server actions. Designed for full server-side use.",
+  "authors": ["f0cus"],
+  "license": "GPL-3.0",
+  "entrypoints": {
+    "server": [
+      "com.example.functionalareas.FAEntryPoint"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "1.21.1"
+  },
+  "environment": "server"
+}
